@@ -9,7 +9,7 @@ Using the following technologies
 
 ## 💻 About
 
-Website that shows a News List. You can add, look for, edit and delete the news. For the project the news are saved in local storage. You can check in Vercel
+Website that shows a News List. You can add, look for, edit and delete the news. For the project the news are saved in local storage. You can check in Vercel https://news-challenge.vercel.app/
 
 ## Installing
 
